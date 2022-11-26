@@ -11,7 +11,7 @@ ultrasonic sensors, measure the time taken for a pulse of high-frequency sound t
 # Things used in this project
 ## Hardware
 - UltraSonic HC-SR04 Sensor
-- esp32
+- arduino uno
 - Micro SD Card Module
 - DS3231 Precision RTC Module
 - 1CH Relay Module 5v
